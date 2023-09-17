@@ -1,0 +1,185 @@
+---
+title: "La influencia de las empresas multinacionales"
+author: "Héctor Mondragón"
+institute: "CIDE"
+format:
+  revealjs: 
+    theme: serif
+editor: visual
+slide-number: c/t
+transition: slide
+transition-speed: slow
+
+---
+# {background-color=#383D3D}
+
+Kim y Milner (2021)
+
+## Pregunta
+
+- ¿Cuáles son las actividades políticas de las multinacionales?
+  - ¿Hacen lobbying de manera distinta a las empresas domésticas?
+  - Si es el caso, ¿se debe al tamaño o als conexiones globales?
+  - ¿En qué temas lo hacen?
+
+## Metodología
+  - creación de base de datos y conceptualización de empresas multinacionales en EU (1999-2019)
+
+- Modelo MCO 
+- DiD
+
+## Resultados
+
+- Existen diferencias entre las multinacionales y las empresas nacionales:
+  - Hacen más lobbying
+  - Tienen más áreas de incidenciaç
+  - Éstas áreas de incidencia se relacionan mayormente con la política exterior que con la interior.
+  
+##
+
+![Effect on lobbying expenditures](lobbyexp.png)
+
+##
+
+![Tarifas vs impuestos](lobbytaxation.png)
+
+## Preguntas y comentarios
+- ¿De qué otras formas pueden incidir?
+- Limitado a datos en Estados Unido
+- ¿Cómo impacta en el largo plazo? Confianza del consumidor-elector, así como la toma de decisiones?
+- Cómo equilibrar con la democracia? 
+  - Instituciones nacionales e internacionales
+- Qué hay de otros temas como la sostenibilidad, ¿Sólo cabildean en temas económicos?
+
+
+
+## Comentarios
+
+# {background-color=#383D3D}
+
+Kermer (2014)
+
+## Pregunta
+
+¿Cómo deberíamos medir la Inversión Extranjera directa?, ¿por qué?
+
+La forma en que se mide la IED no refleja lo que se pretende.
+
+## Definiciones
+- Una forma ide inversión trasnforonteriza en la cual un residente o una corporación localizada en un país es dueña  de un capital productivo localizado en un segundo país (Oatley, 2012).
+
+- Inversión en control de empresas productivas deslocalizadas(overseas), usualmente definida por una inversión que llega al 10% del control de ls acciones de una compañía
+
+## Inversión
+- Producción, empleo, ventas
+- ¿Qué tan relevante es la ubicación nominal de activos financieros?
+- Obsolescencia de las negociaciones.
+  - Entre más activos fijos, es ma´s costoso cambiar las operaciones de la empresa.
+
+## Extranjera
+- El capital proviene de una Multinacional (fin)
+- El capital está en control de un inversor extranjero (com).
+- El financiamiento podría ser engañoso
+
+## Directa
+- Una proporción suficiente de propiedad para que exista unccierto nivel de control corporativo
+- Implica un compromiso de largo plazo
+- La IED como vehículo de difusión de prácticas corporativas
+- ¿Qué tan apropiado es el 10% de propiedad?
+
+## IED como flujo
+- Valor neto de las transacciones financieras entre Multinacionales y sus filiales extranjeras en un periodo de tiempo.
+- No reflejan necesariamente la factores políticos.
+  - Pueden fluctuar por cuestiones comerciales.
+- Excluyen el capital financiado localmente
+- Indicadores sesgados
+
+## IED como stock
+- El valor de la INversión extranjera directa en las filiales extranjeras operando en cualquier tiempo.
+
+- Mejor para responder preguntas desdela ciencia política
+- Desventajas
+  - No distingue entre activos líquidos o fijos
+  - Los estimados suelen calcularse con distintas metodologías
+
+
+## Efectos de IED en democracia
+- Prueba con tres medidas:
+  - Flujo
+  - stock, en costo histórico
+  - Opex: Gasto anual en propiedad, planta y equipo.(Inversiones de largo plazo)
+- Resultados significativos con el gasto en inversión fija
+
+## 
+![Efectos de IED en democracia](democracy.png)
+
+## Preguntas y comentarios
+- ¿Cuál sería el mecanismo?
+- Variables omitidas y multicolinealidad
+- ¿Por qué existe IED en autocracias / en democracias en retroceso / en contextos de violencia?
+- ¿Las IED buscan democracias?
+  - by product, externalidades
+  - Certidumbre.
+
+# {background-color=#383D3D}
+
+Bradford, Quinn y Weymouth (2015)
+
+## Pregunta
+
+¿Cómo se explica el descenso en las demandas por antidumping a pesar de que las monedas extranjeras estén subvaluadas y haya competencia de importaciones?
+
+
+## Hipótesis
+- Las empresas que inician procesos por antidumping son distintas que sus pares intraindustria que no lo hacen. 
+- Las empresas más grandes y más internacionales, aprovechan ventajas por la globalización y tienen menos incentivos a presentar demandas antidumping.(Reducen sus costos de producción)
+- Las empresas que importan de países con monedas subvaluadas son menos propensas a presentar demandas antidumping. Obtienen insumos a menor costo.
+  
+
+## Subvaluación de la moneda e IED vertical
+- Horizontal: cuando establece una empresa del mismo tipo
+- Vertical: adquiere una empresa complementaria (por ejemplo que le provea de insumos).
+
+- Correlación positiva
+- Modelos tipo panel
+ 
+## IED vertical y demandas de dumping
+- Regresión binomial negativa inflada con ceros.
+- Cet. Par., el tamaño de la empresa está asociado con más demandas
+- Pero cuando existe IED vertical, se reducen las demandas.
+
+##
+
+![IED y demandas antidumping](vertrade.png)
+
+## Subvaluación de la moneda y demandas
+- Modelo binomial negativo inflado con ceros.
+- Ceteris paribus, la subvlauación está asociada positivamente con más demandas
+- Pero si está condicionada a una IED vertical, el efecto es negativo.
+
+##
+
+![subvaluación y demandas antidumping](undervaluation.png){.absolute top="50%" left="50%"}
+
+## Pruebas de robustez
+- Modelo poisson con Variable Instrumental
+- Método generalizado de momentos de dos pasos
+
+## Pregutnas y Comentarios
+- Implicaciones de política pública. ¿Qué evidencia de manipulación del precio de divisas?
+- ¿En qué países sería difícil aplicar esta teoría?
+  - Instituciones y populismo económico
+- ¿Podría ser distinto dependiendo de industrias?
+- Características de las empresas y de las industrias
+  - Depende de la necesidad de insumos y de localización de empresas complementarias en el país destino. ¿Qué tan demandante es esa industria?.
+- ¿Favorece la creación de oligopolios y pone en riesgo a PYMES?
+  - No necesariamente afectaría a pymes porque podrían estar en distintos segmentos del mercado.
+  
+
+
+
+
+
+
+
+
